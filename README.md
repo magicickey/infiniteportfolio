@@ -3,3 +3,4 @@
 ![Black-and-White-Seamless-Square-Pattern-Graphics-3959241-1](https://github.com/magicickey/infiniteportfolio/blob/main/Black-and-White-Seamless-Square-Pattern-Graphics-3959241-1.jpg?raw=true)
 ![dd114192__70447.1578365426](https://github.com/magicickey/infiniteportfolio/blob/main/dd114192__70447.1578365426.jpg?raw=true)
 ![boite-logo-vide](https://github.com/magicickey/infiniteportfolio/blob/main/boite-logo-vide.png?raw=true)
+![Logo%20500x500%20%20px](https://github.com/magicickey/infiniteportfolio/blob/main/Logo%20500x500%20%20px.jpeg?raw=true)
