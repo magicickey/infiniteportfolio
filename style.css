@@ -8,7 +8,7 @@
 body {
   font-family:'Birthstone', cursive';
   background-color:none;
-	background-image:url('dd114192__70447.1578365426.jpg');
+	background-image:url('');
 	color: white;
        font-size: 21px;
   
@@ -19,7 +19,7 @@ body {
 header {
  color: white;
  background-color:black;
- background-image:url("photo-1568685002016-e1e22ffb7b58.jfif");
+ background-image:url("");
   display:flex-center;
    padding: 70px 0;
    
@@ -30,7 +30,7 @@ header .row,
 footer .row {
   color:#FFD700;
   background-color:none;
-background-image:url('dd114192__70447.1578365426.jpg');
+background-image:url('');
  
 
   
