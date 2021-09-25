@@ -6,10 +6,10 @@
 }
 
 body {
-  font-family:'Orbitron', sans-serif;
+  font-family:'Birthstone', cursive';
   background-color:none;
 	background-image:url('Black-and-White-Seamless-Square-Pattern-Graphics-3959241-1.jpg');
-	color: #FFD700;
+	color: black;
        font-size: 21px;
   
   
@@ -17,7 +17,7 @@ body {
 }
 
 header {
- color: ;
+ color: white;
  background-color:black;
  background-image:url("dd114192__70447.1578365426.jpg");
   display:flex-center;
