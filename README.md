@@ -6,3 +6,4 @@
 ![anton-maksimov-juvnsky-rr-o3AahhNQ-unsplash](https://github.com/magicickey/infiniteportfolio/blob/main/anton-maksimov-juvnsky-rr-o3AahhNQ-unsplash.jpg?raw=true)
 // habillage
 ![wallpaperbetter](https://github.com/magicickey/infiniteportfolio/blob/main/wallpaperbetter.jpg?raw=true)
+![thumb-1920-1010056](https://github.com/magicickey/infiniteportfolio/blob/main/thumb-1920-1010056.jpg?raw=true)
