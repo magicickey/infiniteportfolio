@@ -36,8 +36,8 @@ background-image:url("High_resolution_wallpaper_background_ID_77700367591.jpg");
   
  display: center;
   align-items: center;
-  color:red;
-  background-color:black;
+  color:black;
+  background-color:none;
   
 }
 
@@ -64,13 +64,13 @@ nav {
   
 
 a {
-color: red;
+color: black;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: red; text-decoration:none;
+	color: black; text-decoration:none;
 }
 	a:hover {
 		color:silver;
