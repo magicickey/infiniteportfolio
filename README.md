@@ -12,3 +12,4 @@
 ![html5](https://github.com/magicickey/infiniteportfolio/blob/main/html5.png?raw=true)
 ![css3-1841488_960_720](https://github.com/magicickey/infiniteportfolio/blob/main/css3-1841488_960_720.webp?raw=true)
 ![laragon](https://github.com/magicickey/infiniteportfolio/blob/main/laragon.jpg?raw=true)
+![preview](https://github.com/magicickey/infiniteportfolio/blob/main/preview.png?raw=true)
