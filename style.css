@@ -53,7 +53,7 @@ h1 {
 
 nav {
  background-color:black;
- color:#FFD700;
+ color:red;
   display:flex-block;
   justify-content: flex-end;
 	display: center;
@@ -64,13 +64,13 @@ nav {
   
 
 a {
-color: black;
+color: red;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: black; text-decoration:none;
+	color: red; text-decoration:none;
 }
 	a:hover {
 		color:silver;
@@ -94,7 +94,7 @@ background-image:url('');
   font-size: 27px;
   font-weight: 16px;
   margin: 8px;
-  color:black ;
+  color:red ;
  
 
  
@@ -135,14 +135,14 @@ section .row img {
 }
 
 .btn.btn-primary:hover {
-  color:black;
+  color:red;
   background-color: whitesmoke;
 	display: center;
 }
 
 .btn-secondary {
   background-color:black ;
-  color:#FFD700;
+  color:red;
   margin: 0 0 0 7px
 }
 .button {
@@ -174,7 +174,7 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:ivory;
+  color:red;
   background-color:black;
 
 
@@ -184,13 +184,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:black;
-  color:white;
+  color:red;
   display:flex-center;
   justify-content:flex-end;
 }
 
 footer ul {
-  color:white;
-  background-color:black;
+  color:red;
+  background-color:white;
   list-style: flex;
 }
