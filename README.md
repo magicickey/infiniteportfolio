@@ -30,3 +30,4 @@
 ![create_account](https://github.com/magicickey/infiniteportfolio/blob/main/module_create_account.jpeg?raw=true)
 ![module_espace-mco](https://github.com/magicickey/infiniteportfolio/blob/main/module_espace-mco.jpeg?raw=true)
 ![module_espace_conex](https://github.com/magicickey/infiniteportfolio/blob/main/module_espace_conex.jpeg?raw=true)
+![qrcode_www.codecademy.com](https://github.com/magicickey/infiniteportfolio/blob/main/qrcode_www.codecademy.com.png?raw=true)
