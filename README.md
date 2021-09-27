@@ -34,3 +34,4 @@
 ![Capture%20d%E2%80%99%C3%A9cran%202021-08-28%20191645](https://github.com/magicickey/infiniteportfolio/blob/main/Capture%20d%E2%80%99%C3%A9cran%202021-08-28%20191645.png?raw=true)
 ![wp6236166](https://github.com/magicickey/infiniteportfolio/blob/main/wp6236166.webp?raw=true)
 ![wp6236300](https://github.com/magicickey/infiniteportfolio/blob/main/wp6236300.webp?raw=true)
+![Commande%20du%20jeu](https://github.com/magicickey/infiniteportfolio/blob/main/Commande%20du%20jeu.png?raw=true)
