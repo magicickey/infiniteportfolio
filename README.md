@@ -16,6 +16,6 @@
 ![20210413607583d02b3bd](https://github.com/magicickey/infiniteportfolio/blob/main/20210413607583d02b3bd.jpeg?raw=true)
 // projet
 ![workzone](https://github.com/magicickey/infiniteportfolio/blob/main/workzone.jpeg?raw=true)
-![a1]()
-![a2]()
-![a3]()
+![a1](https://github.com/magicickey/infiniteportfolio/blob/main/a1.jpeg?raw=true)
+![a2](https://github.com/magicickey/infiniteportfolio/blob/main/a2.jpeg?raw=true)
+![a3](https://github.com/magicickey/infiniteportfolio/blob/main/a3.jpeg?raw=true)
