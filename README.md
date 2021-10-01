@@ -1,5 +1,5 @@
 # infiniteportfolio
-![814rJrQK-6L._AC_SL1500_](https://github.com/magicickey/infiniteportfolio/blob/main/814rJrQK-6L._AC_SL1500_.jpg?raw=true)
+
 
 ![pexels-alice-alinari-286653](https://github.com/magicickey/infiniteportfolio/blob/main/pexels-alice-alinari-2866531.jpg?raw=true)
 ![pexels-photo-1322136](https://github.com/magicickey/infiniteportfolio/blob/main/pexels-photo-1322136.jpeg?raw=true)
