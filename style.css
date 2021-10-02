@@ -8,7 +8,7 @@
 body {
   font-family:'Orbitron', sans-serif';
   background-color:white;
-	background-image:url("thumb-1920-1066453.jpg");
+	background-image:url("");
 	color: white;
        font-size: 21px;
   
@@ -19,7 +19,7 @@ body {
 header {
  color: white;
  background-color:#740040;
- background-image:url("pexels-scott-webb-137594.jpg");
+ background-image:url("");
   display:flex-center;
    padding: 70px 0;
    
