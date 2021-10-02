@@ -10,11 +10,8 @@
 
 
 // habillage
-![High_resolution_wallpaper_background_ID_7770036759](https://github.com/magicickey/infiniteportfolio/blob/main/High_resolution_wallpaper_background_ID_77700367591.jpg?raw=true)
-//habillage 2
-![thumb-1920-1066453](https://github.com/magicickey/infiniteportfolio/blob/main/thumb-1920-1066453.jpg?raw=true)
-![pexels-scott-webb-137594](https://github.com/magicickey/infiniteportfolio/blob/main/pexels-scott-webb-137594.jpg?raw=true)
-//
+![abstract-artistic-pattern-4k-l5-1680x1050](https://github.com/magicickey/infiniteportfolio/blob/main/abstract-artistic-pattern-4k-l5-1680x1050.jpg?raw=true)
+
 ![uwp1452720](https://github.com/magicickey/infiniteportfolio/blob/main/uwp1452720.webp?raw=true)
 // Logos
 ![html5](https://github.com/magicickey/infiniteportfolio/blob/main/html5.png?raw=true)
