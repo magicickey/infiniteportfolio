@@ -8,7 +8,7 @@
 body {
   font-family:'Orbitron', sans-serif';
   background-color:black;
-	background-image:url("continuous-azure-vector-wallpaper-rectangular-shapes-geometric-shapes-sewing-appearance-discret-stitch-seamless-pattern-140826493.jpg");
+	background-image:url("");
 	color: white;
        font-size: 21px;
   
@@ -19,7 +19,7 @@ body {
 header {
  color: white;
  background-color:none;
- background-image:url("continuous-azure-vector-wallpaper-rectangular-shapes-geometric-shapes-sewing-appearance-discret-stitch-seamless-pattern-140826493.jpg");
+ background-image:url("");
   display:flex-center;
    padding: 70px 0;
    
@@ -30,7 +30,7 @@ header .row,
 footer .row {
   color:white;
   background-color:none;
-background-image:url("7cd4533c5e522bb3a16d14a67531e245.jpg");
+background-image:url("");
  
 
   
