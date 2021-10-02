@@ -18,8 +18,8 @@ body {
 
 header {
  color: white;
- background-color:black;
- background-image:url("");
+ background-color:none;
+ background-image:url("6.jpg");
   display:flex-center;
    padding: 70px 0;
    
