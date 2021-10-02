@@ -11,7 +11,7 @@
 // habillage
 ![High_resolution_wallpaper_background_ID_7770036759](https://github.com/magicickey/infiniteportfolio/blob/main/High_resolution_wallpaper_background_ID_77700367591.jpg?raw=true)
 //
-![uwp1456894](https://github.com/magicickey/infiniteportfolio/blob/main/uwp1456894.gif?raw=true)
+
 // Logos
 ![html5](https://github.com/magicickey/infiniteportfolio/blob/main/html5.png?raw=true)
 ![css3-1841488_960_720](https://github.com/magicickey/infiniteportfolio/blob/main/css3-1841488_960_720.webp?raw=true)
