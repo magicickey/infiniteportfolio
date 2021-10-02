@@ -9,7 +9,7 @@ body {
   font-family:'Orbitron', sans-serif';
   background-color:white;
 	background-image:url("High_resolution_wallpaper_background_ID_77700367591.jpg");
-	color: black;
+	color: white;
        font-size: 21px;
   
   
@@ -17,8 +17,8 @@ body {
 }
 
 header {
- color: black;
- background-color:red;
+ color: white;
+ background-color:none;
  background-image:url("High_resolution_wallpaper_background_ID_77700367591.jpg");
   display:flex-center;
    padding: 70px 0;
@@ -28,15 +28,15 @@ header {
 
 header .row,
 footer .row {
-  color:black;
-  background-color:red;
+  color:whitz;
+  background-color:none;
 background-image:url("High_resolution_wallpaper_background_ID_77700367591.jpg");
  
 
   
  display: center;
   align-items: center;
-  color:black;
+  color:white;
   background-color:none;
   
 }
@@ -52,8 +52,8 @@ h1 {
   
 
 nav {
- background-color:black;
- color:red;
+ background-color:none;
+ color:white;
   display:flex-block;
   justify-content: flex-end;
 	display: center;
@@ -84,7 +84,7 @@ color: black;
 display :center-block;
 
   background-size:cover;
-  color:#FFD700;
+  color:white;
   background-color:black;
   height: 11px;
 }
@@ -94,7 +94,7 @@ background-image:url('');
   font-size: 27px;
   font-weight: 16px;
   margin: 8px;
-  color:red ;
+  color:white ;
  
 
  
@@ -105,14 +105,14 @@ background-image:url('');
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color:black;
-  background-color#FFD700:;
+  color:white;
+  background-color:none;
   display:center;
  
 }
 
 section .row img {
-  color:blue;
+  color:none;
   display: center;
   
 
@@ -122,26 +122,26 @@ section .row img {
 }
 
 .col-md-6 {
-  color: black;
-  background-color:#FFD700 ;
+  color: white;
+  background-color:none ;
   margin: 0 0 auto;
 }
 
 .btn.btn-primary {
   border-radius: 11px;
   border: 11px;
-  color:black;
-  background-color:whitesmoke ;
+  color:white;
+  background-color:none ;
 }
 
 .btn.btn-primary:hover {
-  color:red;
-  background-color: whitesmoke;
+  color:white;
+  background-color:none;
 	display: center;
 }
 
 .btn-secondary {
-  background-color:black ;
+  background-color:white ;
   color:red;
   margin: 0 0 0 7px
 }
@@ -158,10 +158,10 @@ section .row img {
 }
 
 figure img {
-  color:#FFD700;
+  color:white;
   width: 3px;
   height: 3px;
-  background-color:black;
+  background-color:none;
 
 }
 
@@ -174,7 +174,7 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:red;
+  color:white;
   background-color:black;
 
 
@@ -184,13 +184,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:black;
-  color:red;
+  color:white;
   display:flex-center;
   justify-content:flex-end;
 }
 
 footer ul {
-  color:red;
-  background-color:white;
+  color:white;
+  background-color:none;
   list-style: flex;
 }
