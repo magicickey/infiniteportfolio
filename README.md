@@ -7,7 +7,7 @@
 
 ![white-columns-g70c4b387b_1920](https://github.com/magicickey/infiniteportfolio/blob/main/white-columns-g70c4b387b_1920.jpg?raw=true)
 ![226540](https://github.com/magicickey/infiniteportfolio/blob/main/226540.png?raw=true)
-![pexels-photo-1322136](https://github.com/magicickey/infiniteportfolio/blob/main/pexels-photo-1322136.jpeg?raw=true)
+
 
 // habillage
 ![High_resolution_wallpaper_background_ID_7770036759](https://github.com/magicickey/infiniteportfolio/blob/main/High_resolution_wallpaper_background_ID_77700367591.jpg?raw=true)
