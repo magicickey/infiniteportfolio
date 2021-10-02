@@ -18,8 +18,8 @@ body {
 
 header {
  color: white;
- background-color:none;
- background-image:url("thumb-1920-1066453.jpg");
+ background-color:#740040;
+ background-image:url("");
   display:flex-center;
    padding: 70px 0;
    
@@ -29,8 +29,8 @@ header {
 header .row,
 footer .row {
   color:whitz;
-  background-color:none;
-background-image:url("thumb-1920-1066453.jpg");
+  background-color:#740040;
+background-image:url("");
  
 
   
