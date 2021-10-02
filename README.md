@@ -4,7 +4,7 @@
 ![Capture%20d%E2%80%99%C3%A9cran%202021-10-01%20230256](https://github.com/magicickey/infiniteportfolio/blob/main/Capture%20d%E2%80%99%C3%A9cran%202021-10-01%20230256.png?raw=true)
 ![Capture%20web_1-10-2021_23026_localhost](https://github.com/magicickey/infiniteportfolio/blob/main/Capture%20web_1-10-2021_23026_localhost.jpeg?raw=true)
 
-![wp7801409](https://github.com/magicickey/infiniteportfolio/blob/main/wp7801409.jpg?raw=true)
+
 ![white-columns-g70c4b387b_1920](https://github.com/magicickey/infiniteportfolio/blob/main/white-columns-g70c4b387b_1920.jpg?raw=true)
 ![226540](https://github.com/magicickey/infiniteportfolio/blob/main/226540.png?raw=true)
 ![pexels-photo-1322136](https://github.com/magicickey/infiniteportfolio/blob/main/pexels-photo-1322136.jpeg?raw=true)
