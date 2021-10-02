@@ -5,7 +5,7 @@
 ![Capture%20web_1-10-2021_23026_localhost](https://github.com/magicickey/infiniteportfolio/blob/main/Capture%20web_1-10-2021_23026_localhost.jpeg?raw=true)
 
 
-![white-columns-g70c4b387b_1920](https://github.com/magicickey/infiniteportfolio/blob/main/white-columns-g70c4b387b_1920.jpg?raw=true)
+
 ![226540](https://github.com/magicickey/infiniteportfolio/blob/main/226540.png?raw=true)
 
 
