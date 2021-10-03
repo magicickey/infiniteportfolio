@@ -29,6 +29,12 @@
 ![newletter](https://github.com/magicickey/infiniteportfolio/blob/main/newletter.jpeg?raw=true)
 // habillage projet
 ![tanya-chanova-ujyTyrWRDS4-unsplash](https://github.com/magicickey/infiniteportfolio/blob/main/tanya-chanova-ujyTyrWRDS4-unsplash.jpg?raw=true)
+// AZ PART
+![]()
+![]()
+![]()
+![]()
+![]()
 ![wp7449227](https://github.com/magicickey/infiniteportfolio/blob/main/wp7449227.jpg?raw=true)
 // other
 ![pexels-lucas-pezeta-2018238](https://github.com/magicickey/infiniteportfolio/blob/main/pexels-lucas-pezeta-2018238.jpg?raw=true)
