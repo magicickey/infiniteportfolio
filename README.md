@@ -32,8 +32,8 @@
 // AZ PART
 ![91gSwEgSz6L](https://github.com/magicickey/infiniteportfolio/blob/main/91gSwEgSz6L.jpg?raw=true)
 ![Anothermodif](https://github.com/magicickey/infiniteportfolio/blob/main/Anothermodif.jpeg?raw=true)
-![]()
-![]()
+![version2](https://github.com/magicickey/infiniteportfolio/blob/main/version2.jpeg?raw=true)
+![version3](https://github.com/magicickey/infiniteportfolio/blob/main/version3.jpeg?raw=true)
 ![]()
 ![wp7449227](https://github.com/magicickey/infiniteportfolio/blob/main/wp7449227.jpg?raw=true)
 // other
