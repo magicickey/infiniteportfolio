@@ -52,3 +52,6 @@
 ![pexels-photo-3560044](https://github.com/magicickey/infiniteportfolio/blob/main/pexels-photo-3560044.jpeg?raw=true)
 //3D projet 7
 ![blame-cibo-sci-fi-manga-wallpaper-preview](https://github.com/magicickey/infiniteportfolio/blob/main/blame-cibo-sci-fi-manga-wallpaper-preview.png?raw=true)
+// DATA LEARNING
+![8c0247527b_50165683_big-data](https://github.com/magicickey/infiniteportfolio/blob/main/8c0247527b_50165683_big-data.jpg?raw=true)
+![]()
