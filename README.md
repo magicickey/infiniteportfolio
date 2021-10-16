@@ -56,3 +56,5 @@
 ![8c0247527b_50165683_big-data](https://github.com/magicickey/infiniteportfolio/blob/main/8c0247527b_50165683_big-data.jpg?raw=true)
 //
 ![wallpaperbetter.com_1920x1080](https://github.com/magicickey/infiniteportfolio/blob/main/wallpaperbetter.com_1920x1080.jpg?raw=true)
+// test partie other css
+![abstrait-vert-geometrique_52683-30019](https://github.com/magicickey/infiniteportfolio/blob/main/abstrait-vert-geometrique_52683-30019.jpg?raw=true)
