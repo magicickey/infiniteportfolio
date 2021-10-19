@@ -8,7 +8,7 @@
 body {
   font-family: 'Anton', sans-serif;
   background-color:none;
-	background-image:url("wallpaperbetter.jpg");
+	background-image:url("nwsltr1-scaled.jpg");
 	color: white;
        font-size: auto;
 
@@ -16,7 +16,7 @@ body {
 	header {
  color: white;
  background-color:none;
- background-image:url("wallpaperbetter.jpg");
+ background-image:url("nwsltr1-scaled.jpg");
   display:flex-center;
    padding: auto ;
    
@@ -27,7 +27,7 @@ header .row,
 footer .row {
   color:white;
   background-color:none;
-background-image:url("wallpaperbetter.jpg");
+background-image:url("nwsltr1-scaled.jpg");
  
 
   
