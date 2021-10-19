@@ -58,4 +58,4 @@
 ![wallpaperbetter.com_1920x1080](https://github.com/magicickey/infiniteportfolio/blob/main/wallpaperbetter.com_1920x1080.jpg?raw=true)
 // test partie other css
 ![abstrait-vert-geometrique_52683-30019](https://github.com/magicickey/infiniteportfolio/blob/main/abstrait-vert-geometrique_52683-30019.jpg?raw=true)
-![wallpaperbette](https://github.com/magicickey/infiniteportfolio/blob/main/wallpaperbetter.jpg?raw=true)
+![nwsltr1-scaled](https://github.com/magicickey/infiniteportfolio/blob/main/nwsltr1-scaled.jpg?raw=true)
