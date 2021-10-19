@@ -10,6 +10,7 @@
 $red:#red;
 body {
   background-color:pink;
+  color:black;
 }
 .flex-row {
   display:flex;
